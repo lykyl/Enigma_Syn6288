@@ -1,0 +1,42 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Enigma_Syn6288    KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init    KEYWORD2
+play    KEYWORD2
+stop    KEYWORD2
+restore    KEYWORD2
+isBusy    KEYWORD2
+pause    KEYWORD2
+sleep    KEYWORD2
+setVolume   KEYWORD2
+voiceVolume   KEYWORD2
+backVolume   KEYWORD2
+speed   KEYWORD2
+numbType   KEYWORD2
+ArabOne   KEYWORD2
+noticeSound   KEYWORD2
+readPunctuation   KEYWORD2
+readWord   KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+HEADLEN    LITERAL1
+GB2312_CODE    LITERAL1
+GBK_CODE    LITERAL1
+BIG5_CODE    LITERAL1
+UNICODE_CODE    LITERAL1
+GET_SUCCESS    LITERAL1
+UNKNOW_CMD    LITERAL1
+INIT_SUCCESS    LITERAL1
+BUSYING    LITERAL1
+WAITING    LITERAL1
+STATE_NORMAL    LITERAL1
+STATE_SERIAL_ERROR    LITERAL1
+STATE_SEND_ERROR    LITERAL1
